@@ -1,0 +1,6 @@
+*.out
+usr/
+build/
+munge.key
+.vscode/
+normal/plots
